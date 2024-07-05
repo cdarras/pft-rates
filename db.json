@@ -1,10 +1,15 @@
 {
-  "timestamp": 123,
-  "base": "",
   "rates": {
-    "EUR": 1.026546,
-    "USD": 0.999689,
-    "CHF": 1.698532,
-    "GBP": 1.27
+    "timestamp": 123,
+    "base": "",
+    "rates": {
+      "EUR": 1.026546,
+      "USD": 0.999689,
+      "CHF": 1.698532,
+      "GBP": 1.27
+    }
+  },
+  "profile": {
+    "name": "typicode"
   }
 }
